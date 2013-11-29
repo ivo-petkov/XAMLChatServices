@@ -1,0 +1,304 @@
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.Services.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.Services.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Antlr3.Runtime.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.DataLayer.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.Models.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.Repositories.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\EntityFramework.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.Edm.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.OData.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Newtonsoft.Json.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Net.Http.Formatting.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Spatial.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Helpers.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.OData.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.Tracing.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.WebHost.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Mvc.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Optimization.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Providers.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Razor.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\WebGrease.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.DataLayer.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.Models.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Chat.Repositories.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\EntityFramework.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Newtonsoft.Json.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Net.Http.Formatting.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Helpers.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.WebHost.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Mvc.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Razor.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.Tracing.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.OData.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.Edm.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.OData.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\System.Spatial.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\de\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\es\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\it\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\de\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\es\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\fr\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\it\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ja\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ko\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\ru\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\zh-Hans\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\bin\zh-Hant\System.Spatial.resources.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\obj\Debug\Chat.Services.csprojResolveAssemblyReference.cache
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\obj\Debug\Chat.Services.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Services\obj\Debug\Chat.Services.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.Services.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.Services.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Antlr3.Runtime.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.DataLayer.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.Models.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.Repositories.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\EntityFramework.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.Edm.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.OData.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Newtonsoft.Json.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Spatial.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Helpers.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.OData.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.Tracing.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Mvc.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Optimization.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Providers.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Razor.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\WebGrease.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.DataLayer.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.Models.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Chat.Repositories.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\EntityFramework.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Newtonsoft.Json.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Helpers.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Mvc.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Razor.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.Tracing.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Web.Http.OData.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.Edm.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\Microsoft.Data.OData.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\System.Spatial.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\de\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\es\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\fr\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\it\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ja\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ko\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\ru\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\obj\Debug\Chat.Services.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\obj\Debug\Chat.Services.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Services\obj\Debug\Chat.Services.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.Services.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.Services.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Antlr3.Runtime.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.DataLayer.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.Models.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.Repositories.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\EntityFramework.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Microsoft.Data.Edm.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Microsoft.Data.OData.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Newtonsoft.Json.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Net.Http.Formatting.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Spatial.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Helpers.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.OData.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.Tracing.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.WebHost.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Mvc.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Optimization.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Providers.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Razor.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\WebGrease.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.DataLayer.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.Models.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Chat.Repositories.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\EntityFramework.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Newtonsoft.Json.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Net.Http.Formatting.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Helpers.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.WebHost.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Mvc.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Razor.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.Tracing.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Web.Http.OData.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Microsoft.Data.Edm.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\Microsoft.Data.OData.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\System.Spatial.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\de\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\es\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\it\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\de\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\es\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\fr\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\it\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ja\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ko\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\ru\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\zh-Hans\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\bin\zh-Hant\System.Spatial.resources.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\obj\Debug\Chat.Services.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\obj\Debug\Chat.Services.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.Services\obj\Debug\Chat.Services.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.Services.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.Services.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Antlr3.Runtime.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.DataLayer.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.Models.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.Repositories.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\EntityFramework.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Microsoft.Data.Edm.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Microsoft.Data.OData.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Microsoft.Web.Infrastructure.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Newtonsoft.Json.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Net.Http.Formatting.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Spatial.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Helpers.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.OData.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.Tracing.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.WebHost.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Mvc.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Optimization.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Providers.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Razor.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\WebGrease.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.DataLayer.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.Models.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Chat.Repositories.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\EntityFramework.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Newtonsoft.Json.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Net.Http.Formatting.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Helpers.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.WebHost.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Mvc.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Razor.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Deployment.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.WebPages.Razor.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.Tracing.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Web.Http.OData.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Microsoft.Data.Edm.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\Microsoft.Data.OData.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\System.Spatial.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\de\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\es\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\it\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\de\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\es\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\fr\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\it\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ja\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ko\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\ru\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\zh-Hans\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\bin\zh-Hant\System.Spatial.resources.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\obj\Debug\Chat.Services.csprojResolveAssemblyReference.cache
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\obj\Debug\Chat.Services.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Services\obj\Debug\Chat.Services.pdb

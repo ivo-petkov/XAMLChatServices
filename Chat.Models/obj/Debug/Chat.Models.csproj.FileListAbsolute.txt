@@ -1,0 +1,15 @@
+E:\Dev\Projects\DoubleGChat.Services\Chat.Models\bin\Debug\Chat.Models.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Models\bin\Debug\Chat.Models.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.Models\obj\Debug\Chat.Models.csprojResolveAssemblyReference.cache
+E:\Dev\Projects\DoubleGChat.Services\Chat.Models\obj\Debug\Chat.Models.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.Models\obj\Debug\Chat.Models.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Models\bin\Debug\Chat.Models.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Models\bin\Debug\Chat.Models.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Models\obj\Debug\Chat.Models.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Models\obj\Debug\Chat.Models.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.Models\obj\Debug\Chat.Models.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Models\bin\Debug\Chat.Models.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Models\bin\Debug\Chat.Models.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Models\obj\Debug\Chat.Models.csprojResolveAssemblyReference.cache
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Models\obj\Debug\Chat.Models.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.Models\obj\Debug\Chat.Models.pdb

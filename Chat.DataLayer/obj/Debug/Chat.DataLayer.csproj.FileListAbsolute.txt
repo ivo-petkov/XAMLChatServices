@@ -1,0 +1,40 @@
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll.config
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.pdb
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.xml
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.csprojResolveAssemblyReference.cache
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.dll
+E:\Dev\Projects\DoubleGChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll.config
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.pdb
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.dll
+C:\Users\George\Documents\Win8 JS\Teamwork\DoubleGChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll.config
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.pdb
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.xml
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.dll
+E:\Documents\Telerik-Software-Academy\WPF and XAML\13. Teamwork\XamlChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll.config
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.DataLayer.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\Chat.Models.pdb
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\bin\Debug\EntityFramework.xml
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.csprojResolveAssemblyReference.cache
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.dll
+F:\Telerik\Desktop and Mobile\XAML & WPF\13. Teamwork\XamlChat\XamlChat.Services\Chat.DataLayer\obj\Debug\Chat.DataLayer.pdb
